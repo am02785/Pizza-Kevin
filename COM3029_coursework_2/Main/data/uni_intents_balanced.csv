@@ -1,0 +1,232 @@
+index,input,intent_code
+0,idk,-1
+1,um,-1
+2,i don't know,-1
+3,i dunno,-1
+4,not sure,-1
+5,hmmm,-1
+3,i really don't understand,-1
+2,can you be my therapist?,-1
+1,the quick brown penguin chirped heavily,-1
+0,djksfdjhfdhj shjfhjksdfjk,-1
+9,sup?,0
+6,konichiwa,0
+5,hey nice to meet you,0
+4,howdy partner,0
+15,yo,0
+14,nice to meet you,0
+13,howdy,0
+12,hiya,0
+11,good to see you,0
+10,good day,0
+9,greetings,0
+8,hey,0
+7,hi,0
+6,hello,0
+8,bonjour,0
+7,hola,0
+16,call me,1
+17,please call me,1
+18,the name's,1
+19,I am called,1
+12,my first name is,1
+11,i go by the name of,1
+16,my name is ,1
+17,i'm called,1
+18,you can call me,1
+19,name's,1
+10,they call me,1
+14,I am,1
+13,"in this world, i go by the moniker",1
+15,the name is,1
+27,the pizza should arrive at,2
+17,please send the delicious pizzas to the following location,2
+25,the address is,2
+24,take the pizza to,2
+23,please bring it to,2
+16,i want you to deliver to,2
+14,you may find me at,2
+28,bring it to,2
+26,you can deliver to,2
+15,the arrival of the pizza shall be anticipated at,2
+21,please deliver to,2
+20,my address is,2
+22,i want the pizza to arrive at,2
+21,so when will it get here?,3
+20,when?,3
+39,I need the pizzas to come at,3
+38,I want them at,3
+37,could the they arrive at,3
+36,tell me when it will come,3
+35,when will the pizza get here?,3
+34,could it come at,3
+33,make the pizza come at,3
+30,when will it arrive?,3
+19,i hope i receive the order soon; when?,3
+18,how long until the wait is over?,3
+26,could you please say what time the pizza will come to me?,3
+25,what time will my pizzas arrive?,3
+24,tell me when the pizza will come,3
+23,so when will it arrive?,3
+32,could the pizza arrive at,3
+28,give me ten pizzas,4
+27,i need two pizzas,4
+22,i need 3 pizzas as soon as possible,4
+23,give me five pizzas,4
+24,i need the order to include two pizzas,4
+49,twenty pizzas please,4
+25,5 of your pizzas is requested,4
+47,give me nine,4
+48,I want 44 pizzas please,4
+42,give me ten of them,4
+43,I want five pizzas,4
+44,please give me three pizzas,4
+45,i want 15 pizzas,4
+41,i need  5 pizzas,4
+46,i give me eight of them,4
+30,i want to order pizza,5
+36,can i order,5
+33,can i order a pizza?,5
+32,let me order a pizza,5
+37,i need to order a pizza,5
+58,I want to order pizzas,5
+59,I would like some pizzas please,5
+31,i need a certain number of pizzas,5
+34,pizza for me,5
+26,i kindly request you add a pizza,5
+27,please kind chatbot give me a pizza,5
+28,a pizza must be added to the order,5
+29,pizza please,5
+35,please can i order,5
+30,the pizza has exceeded its usefulness,6
+31,i have decided to delete a pizza,6
+32,seek and destroy the pizza,6
+66,actually i don't want the pizza,6
+39,actually i don't need that pizza anymore,6
+38,please remove a pizza from the order,6
+62,I would like to remove the pizza please,6
+63,I don't want the pizza,6
+29,i no longer have a use for the pizza,6
+69,can you remove the pizzas for me please,6
+68,I don't want to have the pizza anymore,6
+67,I need to remove the pizza please,6
+65,remove those pizza from the order,6
+64,remove the pizza,6
+34,i require you to change a pizza,7
+35,the pizza must undergo change,7
+36,edit the pizza dude,7
+33,a pizza requires editing,7
+72,I want to have a different pizza,7
+79,could you please change the pizza,7
+78,alter the pizzas,7
+77,please change the pizza,7
+76,could I have a different pizza,7
+75,can i change a pizzas?,7
+74,could i change a pizza,7
+73,I want to alter one of the pizzas,7
+71,could I alter a pizza,7
+40,can i change one of the pizzas?,7
+92,please could I have nothing on my pizza,8
+93,i need topping pork meatballs,8
+64,append topping sweetcorn,8
+49,add topping smoked bacon rashers,8
+65,append topping ham,8
+46,add topping mushrooms,8
+76,append topping sausage,8
+61,add topping sliced gherkins,8
+81,append topping sliced gherkins,8
+39,man i love toppings! give me,8
+98,"I want the toppings bread, sweets, and salt on my pizza",8
+45,add topping ham,8
+50,add topping green and red peppers,8
+98,i need topping chorizo sausage,8
+73,append topping pork meatballs,8
+103,remove pepperoni,9
+113,remove tandoori chicken,9
+104,take out the toppings,9
+105,remove sweetcorn,9
+103,I want to take out the toppings,9
+115,remove olives,9
+111,remove green and red peppers,9
+101,could I please remove the toppings,9
+112,remove jalapeno peppers,9
+121,remove tuna,9
+46,"man i totally forgot i have a deadly allergy against tomatoes, could u get rid of them?",9
+107,remove mushrooms,9
+120,remove tomatoes,9
+45,remove the olives topping.,9
+109,can you remove the toppings,9
+50,"i plan on making the sides into the main, so do add those nachos!",10
+125,i want sausages,10
+116,"please add the sides Chicken Wedges, Garlic Bread, Potato Wedges,  Salad Bowl, Cheesy Garlic Tear and Share, Mac n Cheese, Cheesy Garlic Bread, Cheese Triangles, Sausage Tear & Share, Peri-Peri Chicken, Wings, and Loaded Peri-Peri, Cheesy Nachos, Breaded Chicken Strips, Breaded Chicken Strips, BBQ Chicken Wings, and Beyond Italian Style",10
+128,d,10
+123,"I need sides chocolate, chips, jacket potato and cheese ",10
+114,"please add Sausage Tear & Share, Peri-Peri Chicken, Wings, and Loaded Peri-Peri",10
+118,"i'd like to have the sides Cheesy Garlic Tear and Share, Mac n Cheese, Cheesy Garlic Bread, and Cheese Triangles",10
+51,i'm on a salad and bowl diet so give me a salad bowl.,10
+126,add side,10
+49,is that chicken wedges? add 'em!!,10
+121,can i add the sides Bread and ice cream,10
+124,can i add a side to my order,10
+112,"i'd like to add the sides Cheesy Garlic Tear and Share, Mac n Cheese, Cheesy Garlic Bread, and Cheese Triangles please",10
+128,"please add the sides fruit cobbler, and corn on the cob",10
+111,"can i add a sides Garlic Bread, Potato Wedges, and Salad Bowl to my order",10
+133,remove garlic bread,11
+141,remove breaded chicken strips,11
+144,remove sausage tear & share,11
+137,remove mac n cheese,11
+140,remove cheesy nachos,11
+138,remove cheesy garlic bread,11
+53,"oh no, i forgot i can't eat that side, so remove it.",11
+139,remove cheese triangles,11
+135,remove salad bowl,11
+139,could you please take out the side,11
+145,remove peri-peri chicken,11
+143,remove beyond italian style,11
+131,remove side,11
+136,please can you remove the side,11
+138,you should remove the side,11
+151,add cola regular large,12
+157,please can i add Chocolate Milk and Vodka,12
+141,"can i add the drinks Orange Cola, and Sugar-Free Cola to my order?",12
+149,can i add a drink to my order?,12
+150,add drink Cola,12
+154,could you add Smoothie,12
+145,I want the drink Cola Regular Large,12
+153,add sugar-free cola,12
+140,add drink Cola Regular Large,12
+152,"please let me add Hot Chocolate, and Coffee",12
+143,"please add the drinks Sugar-Free Cola, and Bottled Water",12
+147,"I need the drinks Cola Regular Large, Orange Cola, Sugar-Free Cola, Lemonade, and Bottled Water",12
+56,everyone knows you can't survive without adding a lemonade,12
+159,can you add a Milkshake please,12
+55,cola for me!,12
+157,can i remove a drink from my order?,13
+162,please take out the drink,13
+169,the drink I need to remove is,13
+163,could you remove the drink,13
+160,remove sugar-free cola,13
+165,please remove the drink,13
+168,I want you to remove the drink,13
+158,remove cola regular large,13
+164,the drink i want you to remove is,13
+162,remove bottled water,13
+167,can you please remove the drink,13
+60,get rid of that orange cola!!,13
+166,could i take out drink from my order?,13
+161,remove lemonade,13
+59,i need you to get rid of a drink,13
+168,farewell,14
+64,"yours truly,",14
+63,"that's all, thanks for your help",14
+62,we'll meet again,14
+179,that's all thank you,14
+178,bye bye,14
+177,see you soon,14
+163,bye,14
+164,ok i'm done,14
+165,seeya,14
+166,thanks bye,14
+167,see you later,14
+169,that's all i need,14
+65,ciao!,14
